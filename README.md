@@ -1,13 +1,13 @@
 # Gender Bias in Instruction-Guided Speech Synthesis Models
 <p align="center">
-  <a href="https://2025.naacl.org/">[NAACL2025]</a> <a href="https://2025.naacl.org/">[arXiv]</a>
+  <a href="https://2025.naacl.org/">[NAACL2025]</a> <a href="https://arxiv.org/abs/2502.05649">[arXiv]</a>
 </p>
 
 The official Github page of the paper "Gender Bias in Instruction-Guided Speech Synthesis Models". 
 - Authors: Chun-Yi Kuan, Hung-yi Lee
 - Affiliation: National Taiwan University
 - Accepted to NAACL2025 Findings.
-- arXiv Link: TBA
+- arXiv Link: https://arxiv.org/abs/2502.05649
 
 ## Overview
 ![overview](figures/overview.png)
